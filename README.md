@@ -801,5 +801,5 @@ Character recognition, document digitization, and license plate detection.
 | **Research Papers**       | 15+   | Recent publications and historical works                            |
 
 *Last updated: August 8, 2026*  
-*Maintained by: RannWinPro Drive 8*  
-*Contributions welcome! Submit PR to [pemagrg1/Nepali-Datasets](https://github.com/pemagrg1/Nepali-Datasets)*
+*Maintained by: [Me](https://github.com/theranjitraut/)*  
+*Contributions welcome! Submit PR to [Nepali-Datasets-Collection](https://github.com/theranjitraut/Nepali-Datasets-Collection/)*
