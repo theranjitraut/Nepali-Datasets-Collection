@@ -28,7 +28,6 @@
 
 #### Ultra-Large (&gt;1GB)
 
-
 | Dataset                              | Size                    | Source                | Link                                                                                  |
 | ------------------------------------ | ----------------------- | --------------------- | ------------------------------------------------------------------------------------- |
 | Nepali-Text-Corpus (IRIISNEPAL)      | 6.4M articles, 10.1 GB  | 99 news websites      | [HF](https://huggingface.co/datasets/IRIISNEPAL/nepali-text-corpus)                   |
@@ -38,7 +37,8 @@
 | Boredoom17 Nepali Corpus             | -                       | General               | [HF](https://huggingface.co/datasets/Boredoom17/Nepali-Corpus)                        |
 | Gold Standard Nepali Raw Text Corpus | -                       | Raw text              | [LDCIL](https://data.ldcil.org/a-gold-standard-nepali-raw-text-corpus)                |
 | Language Resources for Nepal         | Multiple datasets       | Aggregated collection | [language-resources-nepal.github.io](https://language-resources-nepal.github.io/data) |
-
+| OpenWiseyak-0.1-Pretraining          | -                       | Wiseyak               | [HF](https://huggingface.co/datasets/Wiseyak/OpenWiseyak-0.1-Pretraining)              |
+| Wiseyak-SFT-Mixed-ne-en              | -                       | Wiseyak               | [HF](https://huggingface.co/datasets/Wiseyak/Wiseyak-SFT-Mixed-ne-en)                  |
 
 #### Large Curated (100MB-1GB)
 
