@@ -35,7 +35,6 @@
 | Dataset | Size | Source | Link |
 |---------|------|--------|------|
 | Nepali-Text-Corpus (IRIISNEPAL) | 6.4M articles, 10.1 GB | 99 news websites | [HF](https://huggingface.co/datasets/IRIISNEPAL/nepali-text-corpus) |
-| IRIIS-RESEARCH Nepali Text Corpus | 10.1 GB, 6.4M articles | 99 news websites | [HF](https://huggingface.co/datasets/IRIIS-RESEARCH/Nepali-Text-Corpus) |
 | OSCAR Corpus Nepali | 3.8 GB, 100M+ sentences | Common Crawl | [Kaggle](https://www.kaggle.com/hsebarp/oscar-corpus-nepali) |
 | CC100-Nepali | 200GB uncompressed | Common Crawl 2019 | [MetaText](https://metatext.io/datasets/cc100-nepali) |
 | Large Scale Nepali Text Corpus | Large-scale | General | [IEEE Dataport](https://ieee-dataport.org/open-access/large-scale-nepali-text-corpus) |
@@ -339,7 +338,6 @@ Extractive, generative, and domain-specific QA datasets.
 | Nepali Driving License Test | - | Question answering | [HF: sharad461/nepali-driving-license-test](https://huggingface.co/datasets/sharad461/nepali-driving-license-test) |
 
 ---
----
 ## Summarization Datasets
 
 Abstractive and extractive summarization, headline generation.
@@ -385,7 +383,6 @@ Parallel corpora for machine translation and low-resource language pairs.
 | English-Nepali Translation Instruction Dataset | - | EN-NE | [HF: ashokpoudel/English-Nepali-Translation-Instruction-Dataset](https://huggingface.co/datasets/ashokpoudel/English-Nepali-Translation-Instruction-Dataset) |
 
 ---
----
 ## Multilingual and Specialized
 
 | Dataset | Size | Languages | Domain | Link |
@@ -396,7 +393,6 @@ Parallel corpora for machine translation and low-resource language pairs.
 | CLE Parallel Corpus | - | EN-NE-UR | - | [AI4Bharat: indicnlp_catalog](https://github.com/AI4Bharat/indicnlp_catalog) |
 
 ---
----
 ## Historical and Shared Tasks
 
 | Dataset | Event | Link |
@@ -404,7 +400,6 @@ Parallel corpora for machine translation and low-resource language pairs.
 | WMT19 Parallel Corpus | Shared task | [statmt.org/wmt19](https://www.statmt.org/wmt19/parallel-corpus-filtering.html) |
 | FLORES 101 Dataset | Multilingual benchmark | [GitHub: facebookresearch/flores](https://github.com/facebookresearch/flores/tree/main/floresv1/data) |
 
----
 ---
 ## Instruction Tuning
 
@@ -438,7 +433,6 @@ Audio data for automatic speech recognition and text-to-speech synthesis.
 | Zaxis018 Nepali Speech to Text | - | Speech recognition | [GitHub: Zaxis018/Nepali_speech_to_text](https://github.com/Zaxis018/Nepali_speech_to_text) |
 
 ---
----
 ## TTS and Synthesized Speech
 
 | Dataset | Size | Description | Link |
@@ -447,7 +441,6 @@ Audio data for automatic speech recognition and text-to-speech synthesis.
 | Nepali Singing Voice Data | Audio + lyrics | For singing voice synthesis (music domain) | [Kaggle: pujancozu/nepali-singing-voice-data](https://www.kaggle.com/datasets/pujancozu/nepali-singing-voice-data) |
 
 ---
----
 ## Speech Analysis and Emotion
 
 | Dataset | Size | Description | Link |
@@ -455,7 +448,6 @@ Audio data for automatic speech recognition and text-to-speech synthesis.
 | Nepali Speech Emotion Detection | 3,000+ speech samples | With 6 emotion labels | [Kaggle: ashalupreti/nepali-speech-emotion-detection-dataset](https://www.kaggle.com/datasets/ashalupreti/nepali-speech-emotion-detection-dataset) |
 | Newari Music Classification | Audio classification | For Newari (related language) music | [Kaggle: pujancozu/newari-music](https://www.kaggle.com/datasets/pujancozu/newari-music) |
 
----
 ---
 ## Multilingual Benchmarks
 
@@ -480,7 +472,6 @@ Datasets for image/video captioning, object detection, and multimodal learning.
 | Birat-Poudel Nepali Sign Language Character Dataset | 36 characters x 1,000 images = 36,000 total | Plain and random background versions, organized by character folders | [HF: Birat-Poudel/Nepali-Sign-Language-Character-Dataset](https://huggingface.co/datasets/Birat-Poudel/Nepali-Sign-Language-Character-Dataset) |
 
 ---
----
 ## Image Captioning and Multimodal
 
 | Dataset | Size | Description | Link |
@@ -490,7 +481,6 @@ Datasets for image/video captioning, object detection, and multimodal learning.
 | MSVD Nepali Dataset | 1,500+ videos | Video captioning | [Kaggle: bipeshrajsubedi/msvd-nepali-dataset](https://www.kaggle.com/datasets/bipeshrajsubedi/msvd-nepali-dataset) |
 
 ---
----
 ## Face Recognition and Emotion
 
 | Dataset | Size | Description | Link |
@@ -498,7 +488,6 @@ Datasets for image/video captioning, object detection, and multimodal learning.
 | Nepali Celeb Localized Face Dataset | 500+ Nepali celebrities | With face bounding boxes | [GitHub: amitpant7/Nepali-Celeb-Localized-Face-Dataset](https://github.com/amitpant7/Nepali-Celeb-Localized-Face-Dataset) |
 | Facial Emotion Detection for Nepali Ethnic Groups | 6,000+ facial images | With 7 emotion labels | [Kaggle: suchanasubedi/facial-emotion-detection-for-nepali-ethnic-groups](https://www.kaggle.com/datasets/suchanasubedi/facial-emotion-detection-for-nepali-ethnic-groups) |
 
----
 ---
 ## Domain-Specific Objects
 
@@ -512,7 +501,6 @@ Datasets for image/video captioning, object detection, and multimodal learning.
 | Vehicles Dataset Nepal | - | General vehicle dataset | [Kaggle: ishworsubedii/vehicles-dataset-nepal](https://www.kaggle.com/datasets/ishworsubedii/vehicles-dataset-nepal) |
 
 ---
----
 ## Geospatial and Remote Sensing
 
 | Dataset | Size | Task | Description | Link |
@@ -522,7 +510,6 @@ Datasets for image/video captioning, object detection, and multimodal learning.
 ---
 
 # OCR and Handwriting Datasets
-
 Character recognition, document digitization, and license plate detection.
 
 ---
@@ -546,7 +533,6 @@ Character recognition, document digitization, and license plate detection.
 | Nahcol Nepali OCR Dataset | - | Nepali OCR dataset | [Kaggle: nahcol/nepali-ocr-dataset](https://www.kaggle.com/datasets/nahcol/nepali-ocr-dataset) |
 
 ---
----
 ## License Plate and Vehicle Recognition
 
 | Dataset | Size | Description | Link |
@@ -557,7 +543,6 @@ Character recognition, document digitization, and license plate detection.
 ---
 
 # Lexicons and Linguistic Resources
-
 Linguistic resources, dictionaries, and instruction-tuned datasets.
 
 ---
@@ -576,7 +561,6 @@ Linguistic resources, dictionaries, and instruction-tuned datasets.
 | Nepali Transliteral Dataset | - | Transliteration (Unicode Nepali to Latin script mapping) | [GitHub: SushilShrestha/NepaliTransliteralDataset](https://github.com/SushilShrestha/NepaliTransliteralDataset) |
 
 ---
----
 ## Morphology and Syntax
 
 | Resource | Size | Type | Link |
@@ -585,7 +569,6 @@ Linguistic resources, dictionaries, and instruction-tuned datasets.
 | Nepali Word-Lemma Gold Data | 5,000+ words | Manual lemmatization annotations | [GitHub: dpakpdl/NepaliLemmatizer/tree/master/Lemmatization/data/manually_annotated_corpus](https://github.com/dpakpdl/NepaliLemmatizer/tree/master/Lemmatization/data/manually_annotated_corpus) |
 | Universal Dependencies (UD) Nepali | 17,500+ tokens | Full syntactic dependency annotations (official UD project) | [GitHub: UniversalDependencies/UD_Nepali-NPP](https://github.com/UniversalDependencies/UD_Nepali-NPP) |
 
----
 ---
 ## Instruction Tuning and Multilingual
 
@@ -615,7 +598,6 @@ Pre-computed word vectors and language models with training datasets.
 | Sidskarki Qwen3 ASR Nepali | - | Qwen3 model fine-tuned for Nepali ASR | [HF: sidskarki/Qwen3-ASR-Nepali](https://huggingface.co/sidskarki/Qwen3-ASR-Nepali) |
 
 ---
----
 ## Word Embeddings
 
 | Embedding | Dimensions | Vocabulary | Link |
@@ -624,7 +606,6 @@ Pre-computed word vectors and language models with training datasets.
 | 300D Word2Vec Embeddings for Nepali Language | Pre-computed 300D vectors | 20k+ words | [GitHub: rabindralamsal/Word2Vec-Embeddings-for-Nepali-Language](https://github.com/rabindralamsal/Word2Vec-Embeddings-for-Nepali-Language) |
 | Nepali FastText Word Vectors | Official FastText vectors | Common Crawl + Wikipedia | [fastText: crawl-vectors](https://github.com/facebookresearch/fastText/blob/master/docs/crawl-vectors.md) |
 
----
 ---
 ## Fine-tuned Models
 
@@ -691,7 +672,6 @@ Peer-reviewed publications on Nepali NLP and related work.
 | Nepali Text Document Classification Using Deep Neural Network | Deep learning approaches | [NEPJOL](https://www.nepjol.info/index.php/TUJ/article/view/28677) |
 
 ---
----
 ## NLP Tasks and Applications
 
 | Paper | Task | Link |
@@ -701,7 +681,6 @@ Peer-reviewed publications on Nepali NLP and related work.
 | Named-Entity Based Sentiment Analysis of Nepali News Media Texts | NER + sentiment joint modeling | [ACL Anthology](https://aclanthology.org/2020.nlptea-1.16.pdf) |
 | Topic Modeling for Nepali Political News | Topic analysis in news domain | [IEEE: 11004776](https://ieeexplore.ieee.org/document/11004776/) |
 
----
 ---
 ## Linguistic and Historical
 
@@ -713,15 +692,18 @@ Peer-reviewed publications on Nepali NLP and related work.
 | Nepali Spell Checker | Earlier spell checking work | [Wayback: NEP04.pdf](https://web.archive.org/web/20150105024511/http://www.panl10n.net/english/final%20reports/pdf%20files/Nepal/NEP04.pdf) |
 
 ---
----
 ## Research Aggregators
 
 | Resource | Description | Link |
 |----------|-------------|------|
-| List of more Nepali NLP papers | Comprehensive tracker (maintained) | [GitHub: RayGone/Nepali-NLP-Progress](https://github.com/RayGone/Nepali-NLP-Progress) |
+| Nepali NLP Progress (RayGone) | Comprehensive tracker (maintained) | [GitHub: RayGone/Nepali-NLP-Progress](https://github.com/RayGone/Nepali-NLP-Progress) |
 | Nepali NLP Progress (divyamani1) | Community-maintained research tracker | [GitHub: divyamani1/Nepali-NLP-Progress](https://github.com/divyamani1/Nepali-NLP-Progress) |
 | Curated List of Nepali NLP Resources (Ghimire Sunil) | Comprehensive resource list | [GitHub: ghimiresunil/Curated-List-of-Nepali-NLP-Resources](https://github.com/ghimiresunil/Curated-List-of-Nepali-NLP-Resources) |
 | Nepali NLP Resources (rameshhpathak) | Tools and dataset aggregator with descriptions | [GitHub: rameshhpathak/nepali-nlp-resources](https://github.com/rameshhpathak/nepali-nlp-resources) |
+| Nepali Datasets (pemagrg1) | Collection of Nepali datasets | [GitHub: pemagrg1/Nepali-Datasets](https://github.com/pemagrg1/Nepali-Datasets) |
+| Nepali Datasets (IOST-ASCOL) | Nepali datasets repository | [GitHub: IOST-ASCOL/nepali-datasets](https://github.com/IOST-ASCOL/nepali-datasets) |
+| Nepali Dataset (R4j4n) | Nepali dataset collection | [GitHub: R4j4n/Nepali-Dataset](https://github.com/R4j4n/Nepali-Dataset) |
+| ML Datasets (amitness) | General ML datasets, includes Nepali resources | [GitHub: amitness/ml-datasets](https://github.com/amitness/ml-datasets) |
 
 ---
 
@@ -754,7 +736,6 @@ Official government datasets and open data portals.
 | ML Datasets for Nepal | Curated ML resources including Laxmi Prasad Devkota Poems (119k characters) and Brihat Sabdakosh | [GitHub: amitness/ml-datasets](https://github.com/amitness/ml-datasets) |
 | IndicNLP Catalog (AI4Bharat) | Official Indic language resources (11 languages including Nepali) | [ai4bharat.github.io/indicnlp_catalog](https://ai4bharat.github.io/indicnlp_catalog/) |
 
----
 ---
 ## Code-Mixed and Multilingual NLP Datasets
 
@@ -800,8 +781,6 @@ Official government datasets and open data portals.
 | **Futvar Football Players Detection Dataset** | - | Football (soccer) players detection for object detection tasks | [Roboflow: ranjit-raut-do9me/futvar-football-players-detection-dataset](https://universe.roboflow.com/ranjit-raut-do9me/futvar-football-players-detection-dataset) |
 
 ---
-
----
 ## Ethical Considerations
 
 - **Sentiment/Hate Speech Data:** Contains potentially offensive language; bias mitigation recommended for model training
@@ -809,7 +788,6 @@ Official government datasets and open data portals.
 - **Copyright:** Wikipedia, news articles sourced responsibly; attribution recommended
 - **Multilingual Data:** Code-mixed datasets reflect real-world language use; social biases may be present
 
----
 ---
 ## Quick Links
 
@@ -819,7 +797,6 @@ Official government datasets and open data portals.
 - **arXiv (Nepali Research)**: [arxiv.org/search/?query=nepali](https://arxiv.org/search/?query=nepali)
 - **IndicNLP Catalog**: [ai4bharat.github.io/indicnlp_catalog](https://ai4bharat.github.io/indicnlp_catalog/)
 
----
 ---
 ## Dataset Summary
 
@@ -838,7 +815,6 @@ Official government datasets and open data portals.
 | Tools and Frameworks | 15+ | NLP toolkits, utilities, dataset aggregators |
 | Open Data | 10+ | Government and public datasets |
 
----
 ---
 ## Dataset Search Guide
 
@@ -1108,7 +1084,6 @@ kaggle datasets download username/dataset-name
 ```
 
 ---
----
 ### Roboflow Search Strategies
 
 ---
@@ -1183,7 +1158,6 @@ dataset = project.version(1).download("yolov8")
 ```
 
 ---
----
 ### Zenodo Search Strategies
 
 ---
@@ -1249,7 +1223,6 @@ dataset = response.json()
 - [Improving Tesseract-OCR for Nepali](https://zenodo.org/records/4361896) (ID: 4361896)
 - [Nepali Sign Language Video Dataset](https://zenodo.org/records/10478554) (ID: 10478554)
 
----
 ---
 ### Other Dataset Platforms
 
@@ -1397,7 +1370,6 @@ data = response.json()
 - API: [https://commons.wikimedia.org/w/api.php](https://commons.wikimedia.org/w/api.php)
 
 ---
----
 ### Advanced Search Techniques
 ---
 
@@ -1481,7 +1453,6 @@ print(result)
 ```
 
 ---
----
 ### Mobile and Browser Tools
 
 ---
@@ -1540,7 +1511,6 @@ Create shortcuts for frequent searches:
 **Android Widget:**
 Use browser bookmark widgets with pre-saved searches
 
----
 ---
 ### Automated Dataset Discovery
 
@@ -1860,7 +1830,6 @@ if __name__ == "__main__":
 ```
 
 ---
----
 ### Dataset Comparison and Selection Tools
 
 ---
@@ -2016,9 +1985,7 @@ print(f"Quality Score: {quality_score:.1f}/100")
 ```
 
 ---
----
 ### Learning Resources for Dataset Discovery
-
 ---
 
 #### Tutorials and Guides
@@ -2068,9 +2035,7 @@ print(f"Quality Score: {quality_score:.1f}/100")
    - [Getting and Cleaning Data](https://www.coursera.org/learn/data-cleaning)
 
 ---
----
-### Pro Tips for Dataset Discovery
-
+### Tips for Dataset Discovery
 ---
 
 #### Best Practices
@@ -2105,7 +2070,7 @@ print(f"Quality Score: {quality_score:.1f}/100")
 
 #### Hidden Gems
 
-1. University repositories: Check Nepali university websites (TU, KU, PU, etc.)
+1. University repositories: Check Nepali university websites (TU, KU, PU, PoU, etc.)
 2. Government open data: [https://data.gov.np/](https://data.gov.np/)
 3. NGO/INGO data: UN, World Bank, ADB, etc. often have Nepal data
 4. Local news websites: Some publish datasets (Kantipur, Annapurna Post, etc.)
@@ -2116,7 +2081,6 @@ print(f"Quality Score: {quality_score:.1f}/100")
 9. Student projects: GitHub repos from Nepali university students
 10. Personal blogs: Nepali researchers often share datasets on their blogs
 
----
 ---
 ### Community and Support
 
@@ -2157,7 +2121,6 @@ print(f"Quality Score: {quality_score:.1f}/100")
 | ResearchGate | Academic | [ResearchGate](https://www.researchgate.net/) |
 | Academia.edu | Academic | [Academia](https://www.academia.edu/) |
 
----
 ---
 ### Staying Updated
 
@@ -2216,7 +2179,6 @@ Create a spreadsheet to track Nepali datasets:
 **Template**: Create your own spreadsheet with these columns
 
 ---
----
 ### Quick Start Guide
 
 ---
@@ -2269,8 +2231,7 @@ Create a spreadsheet to track Nepali datasets:
 7. Create dataset versioning systems for reproducibility
 
 ---
----
-### Final Checklist for Dataset Discovery
+### Checklist for Dataset Discovery
 
 ---
 
@@ -2314,7 +2275,6 @@ Create a spreadsheet to track Nepali datasets:
 - [ ] Create tutorial using new datasets
 
 ---
----
 ### Nepali Datasets to Start With
 
 | Rank | Dataset | Platform | Task | Size | Why It's Great | Link |
@@ -2331,9 +2291,6 @@ Create a spreadsheet to track Nepali datasets:
 | 10 | Nepali Transliteral Dataset | GitHub | Transliteration | - | Unicode to Latin script mapping | [GitHub](https://github.com/SushilShrestha/NepaliTransliteralDataset) |
 
 ---
-
----
-
 ## Dataset Search Guide
 
 ### Platform-Specific Search Instructions
@@ -2708,5 +2665,5 @@ Go to [https://github.com/watching](https://github.com/watching) to manage your 
 ---
 
 *Last Updated: August 8, 2026*
-*Maintained by: [theranjitraut](https://github.com/theranjitraut/)*
+*Maintained by: [Ranjit Raut](https://github.com/theranjitraut/)*
 *Contributions welcome! Submit PR to [Nepali-Datasets-Collection](https://github.com/theranjitraut/Nepali-Datasets-Collection/)*
