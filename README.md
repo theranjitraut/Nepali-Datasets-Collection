@@ -48,7 +48,7 @@
 | NaBI Corpus | - | - | [HF: Utkarsha666/NaBI](https://huggingface.co/datasets/Utkarsha666/NaBI) |
 | nepali-pretrain-corpus (HimalayaAI) | 4.29 GB | kaggle:hsebarp/oscar-corpus-nepali | [HF](https://huggingface.co/datasets/himalaya-ai/nepali-pretrain-corpus)|
 | nepali-sft-dataset (HimalayaAI) | 3.8 GB | dineshkarki/textbooks-qa-nepali | [HF](https://huggingface.co/datasets/himalaya-ai/nepali-sft-dataset)|
-| nepali-news-corpus (HimalayaAI) | 1.84 GB | dineshkarki/textbooks-qa-nepali | [HF](https://huggingface.co/datasets/himalaya-ai/nepali-news-corpus)|
+| nepali-news-corpus (HimalayaAI) | 1.84 GB | newsportal | [HF](https://huggingface.co/datasets/himalaya-ai/nepali-news-corpus)|
 
 ### Large Curated (100MB-1GB)
 
