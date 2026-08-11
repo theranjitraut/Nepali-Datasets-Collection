@@ -46,6 +46,9 @@
 | Ministry of Finance Nepal Corpus | 2015-2024 (Fiscal Years 2072/73-2080/81) | Government reports | [HF: lilgoose777/mof-nepal-nepali](https://huggingface.co/datasets/lilgoose777/mof-nepal-nepali) |
 | Nepali LLM Datasets | - | Aggregated | [HF: Aananda-giri/nepali_llm_datasets](https://huggingface.co/datasets/Aananda-giri/nepali_llm_datasets) |
 | NaBI Corpus | - | - | [HF: Utkarsha666/NaBI](https://huggingface.co/datasets/Utkarsha666/NaBI) |
+| nepali-pretrain-corpus (HimalayaAI) | 4.29 GB | kaggle:hsebarp/oscar-corpus-nepali | [HF](https://huggingface.co/datasets/himalaya-ai/nepali-pretrain-corpus)|
+| nepali-sft-dataset (HimalayaAI) | 3.8 GB | dineshkarki/textbooks-qa-nepali | [HF](https://huggingface.co/datasets/himalaya-ai/nepali-sft-dataset)|
+| nepali-news-corpus (HimalayaAI) | 1.84 GB | dineshkarki/textbooks-qa-nepali | [HF](https://huggingface.co/datasets/himalaya-ai/nepali-news-corpus)|
 
 ### Large Curated (100MB-1GB)
 
